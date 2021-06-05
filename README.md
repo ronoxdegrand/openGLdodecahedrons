@@ -1,4 +1,4 @@
-# Assignment 0 - 3 dodecahedrons
+# 3 dodecahedrons
 
 ## Execution instructions
 
